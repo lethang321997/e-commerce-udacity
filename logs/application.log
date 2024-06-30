@@ -1,0 +1,15 @@
+2024-06-30T18:26:26.325+0700 INFO Starting SareetaApplication on DESKTOP-L06Q0HE with PID 948 (started by ADMIN in D:\Java Web\nd035-c4-Security-and-DevOps-master\starter_code)
+2024-06-30T18:26:26.334+0700 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2024-06-30T18:26:26.336+0700 INFO No active profile set, falling back to default profiles: default
+2024-06-30T18:26:31.375+0700 INFO Started SareetaApplication in 5.378 seconds (JVM running for 6.616)
+2024-06-30T18:27:23.711+0700 INFO Created user with username: test1.
+2024-06-30T18:28:14.066+0700 INFO Created user with username: test2.
+2024-06-30T18:29:11.017+0700 INFO Starting SareetaApplication on DESKTOP-L06Q0HE with PID 7632 (started by ADMIN in D:\Java Web\nd035-c4-Security-and-DevOps-master\starter_code)
+2024-06-30T18:29:11.029+0700 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2024-06-30T18:29:11.030+0700 INFO No active profile set, falling back to default profiles: default
+2024-06-30T18:29:16.329+0700 INFO Started SareetaApplication in 5.7 seconds (JVM running for 7.124)
+2024-06-30T18:29:18.893+0700 INFO Created user with username: test1.
+2024-06-30T18:29:35.419+0700 ERROR The password is invalid
+2024-06-30T18:29:50.071+0700 DEBUG Request is to process authentication
+2024-06-30T18:33:55.778+0700 INFO Created order with username: test1.
+2024-06-30T18:34:01.883+0700 ERROR Did not find user with username: test154.
